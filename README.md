@@ -1,3 +1,3 @@
 # 🦦 Marxtin
 
-🍋 dev student 
+🍋 webdev student 
